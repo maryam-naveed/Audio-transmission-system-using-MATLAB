@@ -9,8 +9,6 @@ This repository contains MATLAB scripts for implementing an audio transmission s
 3. [Project Structure](#project-structure)
 4. [Usage](#usage)
 5. [Scripts Explanation](#scripts-explanation)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Getting Started
 
